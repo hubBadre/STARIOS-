@@ -1,0 +1,297 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "catalog": "Catalogue",
+    "projects": "Réalisations",
+    "blog": "Conseils",
+    "about": "À propos",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "quote": "Demander un devis",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "switchLanguage": "Changer de langue"
+  },
+  "common": {
+    "learnMore": "En savoir plus",
+    "seeAll": "Tout voir",
+    "getQuote": "Devis gratuit",
+    "callUs": "Appeler",
+    "whatsapp": "WhatsApp",
+    "back": "Retour",
+    "next": "Suivant",
+    "submit": "Envoyer",
+    "sending": "Envoi en cours…",
+    "optional": "facultatif",
+    "from": "À partir de",
+    "skipToContent": "Aller au contenu principal"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Techniciens certifiés · Intervention sous 24 h",
+      "title": "Votre confort thermique, installé dans les règles de l'art",
+      "subtitle": "Starios vend, installe et entretient vos climatiseurs à Casablanca et dans tout le Maroc. Devis gratuit, matériel garanti, équipes formées aux marques que nous posons.",
+      "ctaPrimary": "Obtenir mon devis gratuit",
+      "ctaSecondary": "Voir nos services",
+      "trustGuarantee": "Garantie 1 an",
+      "trustCertified": "Frigoristes certifiés",
+      "trustResponse": "Réponse sous 24 h"
+    },
+    "stats": {
+      "projects": "Installations réalisées",
+      "years": "Ans d'expérience",
+      "technicians": "Techniciens",
+      "response": "Délai de réponse (h)"
+    },
+    "services": {
+      "eyebrow": "Nos services",
+      "title": "Un seul interlocuteur, du conseil à la maintenance",
+      "subtitle": "De la sélection du matériel jusqu'à l'entretien annuel, nos équipes couvrent l'ensemble du cycle de vie de votre installation."
+    },
+    "why": {
+      "eyebrow": "Pourquoi Starios",
+      "title": "Ce qui change quand l'installation est bien faite",
+      "subtitle": "Une climatisation mal dimensionnée consomme plus, tombe en panne plus tôt et refroidit mal. Notre travail commence par le calcul, pas par la vente.",
+      "item1Title": "Dimensionnement calculé",
+      "item1Body": "Nous calculons précisément la puissance nécessaire selon la surface, l’exposition et l’usage du local, sans approximation.",
+      "item2Title": "Matériel d'origine garanti",
+      "item2Body": "Uniquement des unités neuves issues des réseaux officiels, avec garantie constructeur et facture.",
+      "item3Title": "Pose aux normes de l'art",
+      "item3Body": "Tirage au vide, contrôle d'étanchéité, fixations conformes : les étapes que l'on saute ailleurs.",
+      "item4Title": "Suivi après installation",
+      "item4Body": "Contrat d'entretien optionnel et intervention de dépannage prioritaire pour nos clients.",
+      "proofLabel": "Preuve de qualité",
+      "proofTitle": "Des installations pensées pour durer et pour rassurer.",
+      "proofBody": "Nous mettons l’accent sur le confort durable, la précision du montage et le suivi client, afin que chaque installation apporte un vrai bien-être au quotidien.",
+      "highlight1Title": "Audit gratuit",
+      "highlight1Body": "Analyse claire de vos besoins avant toute recommandation.",
+      "highlight2Title": "Mise en service",
+      "highlight2Body": "Contrôle complet avant livraison de votre installation.",
+      "highlight3Title": "Service premium",
+      "highlight3Body": "Réactivité, suivi et conseil après la pose.",
+      "reviewLabel": "Avis clients",
+      "reviewText": "Confiance, qualité de pose et accompagnement de proximité.",
+      "reviewMetric1": "Satisfaction",
+      "reviewMetric1Value": "98%",
+      "reviewMetric2": "Intervention",
+      "reviewMetric2Value": "24h",
+      "reviewMetric3": "Garantie",
+      "reviewMetric3Value": "1 an",
+      "processEyebrow": "Comment on travaille",
+      "processTitle": "Une expérience claire, de l’étude à la mise en service",
+      "processSubtitle": "Chaque projet suit une méthode simple, transparente et adaptée à votre lieu de vie ou de travail.",
+      "processNote": "Sans surprise, sans pression",
+      "processCta": "Découvrir la méthode",
+      "process1Title": "1. Diagnostic précis",
+      "process1Body": "Nous analysons votre espace, votre usage et vos contraintes pour choisir la meilleure solution.",
+      "process2Title": "2. Propositions claires",
+      "process2Body": "Vous recevez un devis net, adapté à votre budget, sans ambiguïté ni surcoût caché.",
+      "process3Title": "3. Installation & suivi",
+      "process3Body": "Nos techniciens réalisent la pose, vérifient le bon fonctionnement et restent à vos côtés après la mise en service."
+    },
+    "brands": {
+      "title": "Les marques que nous installons et entretenons"
+    },
+    "testimonials": {
+      "eyebrow": "Ils nous ont fait confiance",
+      "title": "Ce que disent nos clients",
+      "empty": "Les premiers avis clients seront publiés prochainement."
+    },
+    "extra": {
+      "eyebrow": "Pourquoi nous choisir",
+      "title": "Une offre complète pour un confort durable",
+      "subtitle": "Au-delà de la pose, nous vous accompagnons pour choisir le bon système, optimiser la consommation et garder votre installation performante sur le long terme.",
+      "benefit1Title": "Conseil personnalisé",
+      "benefit1Body": "Nous vous aidons à choisir la solution la plus adaptée à votre espace, votre usage et votre budget.",
+      "benefit2Title": "Maintenance proactive",
+      "benefit2Body": "Un suivi régulier aide à préserver le rendement, limiter les pannes et prolonger la durée de vie de votre installation.",
+      "benefit3Title": "Intervention rapide",
+      "benefit3Body": "Nous répondons vite pour les besoins urgents, les réparations et les demandes de reprise en main.",
+      "benefit4Title": "Couverture nationale",
+      "benefit4Body": "Nous intervenons sur plusieurs villes du Maroc pour les particuliers comme pour les professionnels.",
+      "coverageTitle": "Nos zones d'intervention",
+      "coverageSubtitle": "Une présence locale pour un service fiable et rapide.",
+      "coverageText": "Nous couvrons les villes et zones les plus demandées pour proposer une intervention fiable, rapide et adaptée à chaque configuration.",
+      "coverageCta": "Demander un devis",
+      "faqTitle": "Questions fréquentes",
+      "faq1Q": "Quel est le délai d'intervention ?",
+      "faq1A": "En fonction de votre zone et de la demande, nous tentons d'intervenir rapidement, avec un premier contact sous 24 h ouvrées.",
+      "faq2Q": "Peut-on remplacer un ancien système ?",
+      "faq2A": "Oui. Nous étudions votre installation existante pour vous proposer une solution plus performante, plus économique et plus confortable.",
+      "faq3Q": "Offrez-vous un diagnostic avant devis ?",
+      "faq3A": "Oui. Nous vous aidons à poser les bons critères avant toute recommandation afin de sécuriser votre choix.",
+      "cta": "Demander un devis"
+    },
+    "cta": {
+      "title": "Un projet de climatisation ? Parlons-en.",
+      "subtitle": "Décrivez votre besoin en trois étapes. Vous recevez une estimation indicative immédiate, puis un devis ferme après visite technique.",
+      "button": "Demander mon devis gratuit",
+      "reassurance": "Gratuit et sans engagement · Réponse sous 24 h ouvrées"
+    }
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "title": "Confort durable pour votre intérieur",
+    "subtitle": "Installation, maintenance et conseils pour une climatisation efficace et responsable.",
+    "intro": "Nous aidons les foyers et entreprises à respirer mieux tout en réduisant leur consommation énergétique. Depuis 2008, notre équipe propose des solutions sur-mesure, respectueuses de l'environnement et durables.",
+    "ctaPrimary": "Demander un devis gratuit",
+    "ctaSecondary": "Voir nos services",
+    "whyEyebrow": "Pourquoi nous choisir",
+    "whyTitle": "Une expertise au service du confort et de la performance",
+    "whySubtitle": "Nous associons une vraie compréhension du confort intérieur à une approche concrète, claire et durable.",
+    "values": [
+      { "title": "Solutions durables", "text": "Nous concevons des installations pensées pour réduire la consommation énergétique sans sacrifier le confort." },
+      { "title": "Qualité et fiabilité", "text": "Chaque projet bénéficie d’un accompagnement rigoureux, d’un matériel fiable et d’un service de confiance." },
+      { "title": "Maintenance proactive", "text": "Nous assurons un suivi durable pour préserver les performances et la longévité de votre système." }
+    ],
+    "diffEyebrow": "Notre différence",
+    "diffTitle": "Des décisions simples, concrètes et pensées pour durer.",
+    "diffSubtitle": "Nous plaçons la transparence, la qualité de pose et le confort réel au centre de chaque projet.",
+    "differentiators": [
+      { "title": "Diagnostic honnête", "text": "Nous analysons votre besoin sans survente ni solution inutile, pour une installation adaptée à votre usage réel." },
+      { "title": "Pose soignée", "text": "Chaque installation est pensée pour être propre, silencieuse, durable et respectueuse de votre espace de vie." },
+      { "title": "Accompagnement durable", "text": "Nous restons à vos côtés après la pose pour optimiser les performances, prévenir les défauts et sécuriser votre confort." }
+    ],
+    "adnBadge": "Notre ADN",
+    "adnTitle": "Une approche claire, humaine et orientée résultat.",
+    "adnBody": "Nous croyons que le confort passe par des installations simples, efficaces et pensées pour durer. C’est pourquoi nous travaillons avec transparence, écoute et précision à chaque étape.",
+    "adnPoints": [
+      "Écoute des besoins réels et recommandations honnêtes",
+      "Choix de solutions adaptées au budget et à l’usage",
+      "Suivi de qualité et service après-vente rassurant"
+    ],
+    "methodTitle": "Notre méthode",
+    "methodSubtitle": "Diagnostic transparent et suivi prolongé",
+    "process": [
+      "Diagnostic précis et recommandations sur mesure",
+      "Devis clair, transparent et adapté à vos besoins",
+      "Installation réalisée par des techniciens qualifiés",
+      "Suivi post-installation et maintenance de proximité"
+    ],
+    "finalBadge": "Besoin d’un conseil ?",
+    "finalTitle": "Une solution pensée pour votre espace, votre confort et votre budget.",
+    "finalBody": "Nous sommes à l’écoute de vos besoins pour vous proposer une installation fiable, performante et durable.",
+    "finalCta": "Demander un devis gratuit",
+    "stats": {
+      "experience": "années d’expérience",
+      "projects": "installations réalisées",
+      "satisfaction": "satisfaction client"
+    }
+  },
+  "services": {
+    "metaTitle": "Nos services de climatisation",
+    "metaDescription": "Vente, installation, maintenance, dépannage, nettoyage et ventilation : découvrez toutes les prestations Starios au Maroc.",
+    "eyebrow": "Nos prestations",
+    "title": "Services de climatisation et de ventilation",
+    "subtitle": "Six prestations couvrant l'ensemble des besoins des particuliers et des professionnels.",
+    "detailCta": "Demander un devis pour cette prestation",
+    "otherServices": "Autres prestations",
+    "notFound": "Cette prestation est introuvable."
+  },
+  "quote": {
+    "metaTitle": "Demande de devis gratuit",
+    "metaDescription": "Obtenez une estimation indicative immédiate pour votre projet de climatisation, puis un devis ferme après visite technique.",
+    "eyebrow": "Devis gratuit",
+    "title": "Estimez votre projet en trois étapes",
+    "subtitle": "Deux minutes suffisent. L'estimation s'affiche immédiatement, un technicien vous rappelle sous 24 h ouvrées.",
+    "stepOf": "Étape {current} sur {total}",
+    "steps": {
+      "service": "Prestation",
+      "property": "Votre bien",
+      "contact": "Vos coordonnées"
+    },
+    "fields": {
+      "category": "Quelle prestation souhaitez-vous ?",
+      "propertyType": "Type de bien",
+      "surfaceM2": "Surface à climatiser (m²)",
+      "roomsCount": "Nombre de pièces à équiper",
+      "city": "Ville",
+      "cityPlaceholder": "Choisissez votre ville",
+      "fullName": "Nom complet",
+      "phone": "Téléphone",
+      "phoneHelp": "Format : 0661234567 ou +212661234567",
+      "email": "Email",
+      "preferredDate": "Date d'intervention souhaitée",
+      "message": "Précisions sur votre projet",
+      "messagePlaceholder": "Étage, exposition, installation existante, contraintes d'accès…",
+      "consent": "J'accepte que Starios utilise ces informations pour traiter ma demande."
+    },
+    "propertyTypes": {
+      "APPARTEMENT": "Appartement",
+      "VILLA": "Villa / maison",
+      "BUREAU": "Bureau",
+      "COMMERCE": "Commerce",
+      "RESTAURANT": "Restaurant / café",
+      "INDUSTRIE": "Local industriel"
+    },
+    "estimate": {
+      "title": "Estimation indicative",
+      "range": "Entre {min} et {max}",
+      "btu": "Puissance estimée : {btu} BTU sur {units, plural, one {# unité} other {# unités}}",
+      "survey": "Votre projet dépasse notre grille standard : une visite technique est nécessaire pour le chiffrer.",
+      "disclaimer": "Estimation indicative et non contractuelle, établie à partir des informations saisies. Un technicien confirmera le montant après visite technique."
+    },
+    "review": {
+      "title": "Récapitulatif",
+      "edit": "Modifier"
+    },
+    "success": {
+      "title": "Demande envoyée",
+      "body": "Votre demande a bien été enregistrée sous la référence {reference}. Un technicien vous rappelle sous 24 h ouvrées.",
+      "backHome": "Retour à l'accueil"
+    },
+    "error": {
+      "title": "L'envoi a échoué",
+      "body": "Votre demande n'a pas pu être enregistrée. Réessayez, ou appelez-nous directement au {phone}."
+    }
+  },
+  "contact": {
+    "metaTitle": "Nous contacter",
+    "metaDescription": "Téléphone, WhatsApp, email et adresse de Starios à Casablanca. Réponse sous 24 h ouvrées.",
+    "eyebrow": "Contact",
+    "title": "Parlons de votre projet",
+    "subtitle": "Par téléphone pour une urgence, par formulaire pour une demande détaillée.",
+    "formTitle": "Écrivez-nous",
+    "fields": {
+      "fullName": "Nom complet",
+      "email": "Email",
+      "phone": "Téléphone",
+      "subject": "Objet",
+      "message": "Message"
+    },
+    "info": {
+      "phone": "Téléphone",
+      "email": "Email",
+      "address": "Adresse",
+      "hours": "Horaires"
+    },
+    "mapTitle": "Localisation des bureaux Starios à Casablanca",
+    "success": "Message envoyé. Nous vous répondons sous 24 h ouvrées.",
+    "error": "L'envoi a échoué. Réessayez ou appelez-nous."
+  },
+  "footer": {
+    "about": "Starios installe et entretient des systèmes de climatisation et de ventilation pour les particuliers et les professionnels au Maroc.",
+    "navigation": "Navigation",
+    "servicesTitle": "Services",
+    "contactTitle": "Contact",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "rights": "Tous droits réservés.",
+    "areaServed": "Zones d'intervention"
+  },
+  "whatsapp": {
+    "label": "Discuter sur WhatsApp",
+    "message": "Bonjour Starios, je souhaite des informations sur vos services de climatisation."
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "body": "La page demandée n'existe pas ou a été déplacée.",
+    "back": "Retour à l'accueil"
+  },
+  "error": {
+    "title": "Une erreur est survenue",
+    "body": "Le contenu n'a pas pu être chargé. Réessayez dans un instant.",
+    "retry": "Réessayer"
+  }
+}

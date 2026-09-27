@@ -1,0 +1,297 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "catalog": "Catalog",
+    "projects": "Projects",
+    "blog": "Tips",
+    "about": "About",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "quote": "Request a quote",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "switchLanguage": "Change language"
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "seeAll": "See all",
+    "getQuote": "Free quote",
+    "callUs": "Call us",
+    "whatsapp": "WhatsApp",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "sending": "Sending…",
+    "optional": "optional",
+    "from": "From",
+    "skipToContent": "Skip to main content"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Certified technicians · Response within 24 hours",
+      "title": "Your comfort, installed to the highest standard",
+      "subtitle": "Starios sells, installs and maintains air conditioning systems in Casablanca and across Morocco. Free quote, guaranteed equipment, and trained teams for the brands we install.",
+      "ctaPrimary": "Get my free quote",
+      "ctaSecondary": "See our services",
+      "trustGuarantee": "1-year warranty",
+      "trustCertified": "Certified HVAC technicians",
+      "trustResponse": "Response within 24 hours"
+    },
+    "stats": {
+      "projects": "Installations completed",
+      "years": "Years of experience",
+      "technicians": "Technicians",
+      "response": "Response time (h)"
+    },
+    "services": {
+      "eyebrow": "Our services",
+      "title": "One point of contact, from advice to maintenance",
+      "subtitle": "From equipment selection to annual maintenance, our teams cover the full lifecycle of your installation."
+    },
+    "why": {
+      "eyebrow": "Why Starios",
+      "title": "What changes when the installation is done properly",
+      "subtitle": "A poorly sized air conditioner consumes more, breaks down sooner and cools poorly. Our work starts with calculation, not sales.",
+      "item1Title": "Calculated sizing",
+      "item1Body": "We calculate the required power based on the surface area, exposure and use of the space — not by guesswork.",
+      "item2Title": "Guaranteed original equipment",
+      "item2Body": "Only new units from official networks, with manufacturer warranty and invoice.",
+      "item3Title": "Installation to professional standards",
+      "item3Body": "Vacuuming, leak checks, compliant fixings: the steps others skip.",
+      "item4Title": "After-install support",
+      "item4Body": "Optional maintenance contract and priority repair service for our clients.",
+      "proofLabel": "Quality proof",
+      "proofTitle": "Installations designed to last and to reassure.",
+      "proofBody": "We focus on durable comfort, precise installation and customer follow-up so every project brings real everyday well-being.",
+      "highlight1Title": "Free audit",
+      "highlight1Body": "Clear analysis of your needs before any recommendation.",
+      "highlight2Title": "Commissioning",
+      "highlight2Body": "Full checks before handing over your installation.",
+      "highlight3Title": "Premium service",
+      "highlight3Body": "Responsiveness, follow-up and advice after installation.",
+      "reviewLabel": "Client reviews",
+      "reviewText": "Trust, installation quality and close support.",
+      "reviewMetric1": "Satisfaction",
+      "reviewMetric1Value": "98%",
+      "reviewMetric2": "Response",
+      "reviewMetric2Value": "24h",
+      "reviewMetric3": "Warranty",
+      "reviewMetric3Value": "1 year",
+      "processEyebrow": "How we work",
+      "processTitle": "A clear experience, from study to commissioning",
+      "processSubtitle": "Every project follows a simple, transparent method designed for your home or workplace.",
+      "processNote": "No surprises, no pressure",
+      "processCta": "Discover the method",
+      "process1Title": "1. Precise diagnosis",
+      "process1Body": "We analyse your space, your usage and constraints to choose the best solution.",
+      "process2Title": "2. Clear proposals",
+      "process2Body": "You receive a clear quote tailored to your budget, without ambiguity or hidden extra costs.",
+      "process3Title": "3. Installation & follow-up",
+      "process3Body": "Our technicians carry out the installation, verify the proper operation and stay with you after commissioning."
+    },
+    "brands": {
+      "title": "The brands we install and maintain"
+    },
+    "testimonials": {
+      "eyebrow": "They trusted us",
+      "title": "What our clients say",
+      "empty": "The first customer reviews will be published soon."
+    },
+    "extra": {
+      "eyebrow": "Why choose us",
+      "title": "A complete offer for lasting comfort",
+      "subtitle": "Beyond installation, we support you in choosing the right system, optimizing consumption and keeping your equipment performing over the long term.",
+      "benefit1Title": "Personalized advice",
+      "benefit1Body": "We help you choose the solution that best fits your space, your use and your budget.",
+      "benefit2Title": "Proactive maintenance",
+      "benefit2Body": "Regular follow-up helps preserve efficiency, reduce breakdowns and extend the life of your installation.",
+      "benefit3Title": "Fast intervention",
+      "benefit3Body": "We respond quickly for urgent needs, repairs and project handovers.",
+      "benefit4Title": "National coverage",
+      "benefit4Body": "We work across several cities in Morocco for both private and professional customers.",
+      "coverageTitle": "Our service areas",
+      "coverageSubtitle": "Local coverage for reliable and fast service.",
+      "coverageText": "We cover the most requested cities and zones to deliver a service that is reliable, quick and tailored to each configuration.",
+      "coverageCta": "Request a quote",
+      "faqTitle": "Frequently asked questions",
+      "faq1Q": "What is the response time?",
+      "faq1A": "Depending on your area and request, we aim to respond quickly, with first contact within 24 business hours.",
+      "faq2Q": "Can we replace an existing system?",
+      "faq2A": "Yes. We assess your current installation to propose a more efficient, economical and comfortable solution.",
+      "faq3Q": "Do you offer a diagnosis before quotation?",
+      "faq3A": "Yes. We help define the right criteria before any recommendation so your choice is secure.",
+      "cta": "Request a quote"
+    },
+    "cta": {
+      "title": "Need an air-conditioning project? Let’s talk.",
+      "subtitle": "Describe your need in three steps. You receive an immediate estimate, then a firm quote after a technical visit.",
+      "button": "Request my free quote",
+      "reassurance": "Free and without obligation · Reply within business days"
+    }
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "Sustainable comfort for your space",
+    "subtitle": "Installation, maintenance and advice for efficient and responsible air conditioning.",
+    "intro": "We help homes and businesses breathe better while reducing their energy consumption. Since 2008, our team has offered tailor-made solutions that respect the environment and last over time.",
+    "ctaPrimary": "Request a free quote",
+    "ctaSecondary": "See our services",
+    "whyEyebrow": "Why choose us",
+    "whyTitle": "Expertise at the service of comfort and performance",
+    "whySubtitle": "We combine a real understanding of indoor comfort with a practical, clear and sustainable approach.",
+    "values": [
+      { "title": "Sustainable solutions", "text": "We design installations that reduce energy consumption without compromising comfort." },
+      { "title": "Quality and reliability", "text": "Each project benefits from rigorous support, reliable equipment and trustworthy service." },
+      { "title": "Proactive maintenance", "text": "We ensure ongoing support to preserve performance and the longevity of your system." }
+    ],
+    "diffEyebrow": "Our difference",
+    "diffTitle": "Straightforward choices, grounded in real comfort and long-term performance.",
+    "diffSubtitle": "We place transparency, installation quality and genuine comfort at the center of every project.",
+    "differentiators": [
+      { "title": "Honest diagnosis", "text": "We assess your needs without overselling or recommending unnecessary solutions, so every installation fits your real usage." },
+      { "title": "Careful installation", "text": "Each project is designed to be clean, quiet, durable and respectful of your living space." },
+      { "title": "Long-term support", "text": "We stay by your side after installation to optimise performance, prevent issues and keep your comfort secure." }
+    ],
+    "adnBadge": "Our DNA",
+    "adnTitle": "A clear, human and results-oriented approach.",
+    "adnBody": "We believe comfort comes from simple, efficient installations designed to last. That is why we work with transparency, listening and precision at every stage.",
+    "adnPoints": [
+      "Listening to real needs and honest recommendations",
+      "Choosing solutions adapted to budget and usage",
+      "Quality follow-up and reassuring after-sales service"
+    ],
+    "methodTitle": "Our method",
+    "methodSubtitle": "Transparent diagnosis and ongoing support",
+    "process": [
+      "Precise diagnosis and tailored recommendations",
+      "Clear, transparent quote adapted to your needs",
+      "Installation carried out by qualified technicians",
+      "Post-installation follow-up and nearby maintenance"
+    ],
+    "finalBadge": "Need advice?",
+    "finalTitle": "A solution designed for your space, your comfort and your budget.",
+    "finalBody": "We listen to your needs to propose a reliable, efficient and durable installation.",
+    "finalCta": "Request a free quote",
+    "stats": {
+      "experience": "years of experience",
+      "projects": "installations completed",
+      "satisfaction": "customer satisfaction"
+    }
+  },
+  "services": {
+    "metaTitle": "Our air conditioning services",
+    "metaDescription": "Sales, installation, maintenance, repair, cleaning and ventilation: discover all Starios services in Morocco.",
+    "eyebrow": "Our services",
+    "title": "Air conditioning and ventilation services",
+    "subtitle": "Six services covering the needs of homeowners and professionals.",
+    "detailCta": "Request a quote for this service",
+    "otherServices": "Other services",
+    "notFound": "This service could not be found."
+  },
+  "quote": {
+    "metaTitle": "Free quote request",
+    "metaDescription": "Get an immediate estimate for your air-conditioning project, then a firm quote after a technical site visit.",
+    "eyebrow": "Free quote",
+    "title": "Estimate your project in three steps",
+    "subtitle": "Two minutes is enough. The estimate appears immediately, and a technician will call you within 24 business hours.",
+    "stepOf": "Step {current} of {total}",
+    "steps": {
+      "service": "Service",
+      "property": "Your property",
+      "contact": "Your details"
+    },
+    "fields": {
+      "category": "Which service do you need?",
+      "propertyType": "Property type",
+      "surfaceM2": "Area to be cooled (m²)",
+      "roomsCount": "Number of rooms to be equipped",
+      "city": "City",
+      "cityPlaceholder": "Choose your city",
+      "fullName": "Full name",
+      "phone": "Phone",
+      "phoneHelp": "Format: 0661234567 or +212661234567",
+      "email": "Email",
+      "preferredDate": "Preferred appointment date",
+      "message": "Project details",
+      "messagePlaceholder": "Floor, exposure, existing installation, access restrictions…",
+      "consent": "I agree that Starios may use this information to process my request."
+    },
+    "propertyTypes": {
+      "APPARTEMENT": "Apartment",
+      "VILLA": "Villa / house",
+      "BUREAU": "Office",
+      "COMMERCE": "Commercial space",
+      "RESTAURANT": "Restaurant / café",
+      "INDUSTRIE": "Industrial unit"
+    },
+    "estimate": {
+      "title": "Indicative estimate",
+      "range": "Between {min} and {max}",
+      "btu": "Estimated capacity: {btu} BTU across {units, plural, one {# unit} other {# units}}",
+      "survey": "Your project exceeds our standard range: a technical visit is required to finalize the quote.",
+      "disclaimer": "Indicative and non-contractual estimate based on the information provided. A technician will confirm the amount after technical inspection."
+    },
+    "review": {
+      "title": "Summary",
+      "edit": "Edit"
+    },
+    "success": {
+      "title": "Request sent",
+      "body": "Your request has been recorded under reference {reference}. A technician will call you within 24 business hours.",
+      "backHome": "Back to homepage"
+    },
+    "error": {
+      "title": "Send failed",
+      "body": "Your request could not be saved. Try again, or call us directly at {phone}."
+    }
+  },
+  "contact": {
+    "metaTitle": "Contact us",
+    "metaDescription": "Phone, WhatsApp, email and address for Starios in Casablanca. Reply within 24 business hours.",
+    "eyebrow": "Contact",
+    "title": "Let’s talk about your project",
+    "subtitle": "By phone for urgent needs, or via the form for detailed requests.",
+    "formTitle": "Write to us",
+    "fields": {
+      "fullName": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message"
+    },
+    "info": {
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address",
+      "hours": "Hours"
+    },
+    "mapTitle": "Starios office location in Casablanca",
+    "success": "Message sent. We will get back to you within 24 business hours.",
+    "error": "Sending failed. Please try again or call us."
+  },
+  "footer": {
+    "about": "Starios installs and maintains air conditioning and ventilation systems for homeowners and professionals in Morocco.",
+    "navigation": "Navigation",
+    "servicesTitle": "Services",
+    "contactTitle": "Contact",
+    "legal": "Legal notice",
+    "privacy": "Privacy policy",
+    "rights": "All rights reserved.",
+    "areaServed": "Service areas"
+  },
+  "whatsapp": {
+    "label": "Chat on WhatsApp",
+    "message": "Hello Starios, I would like information about your air-conditioning services."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "body": "The requested page does not exist or has moved.",
+    "back": "Back to home"
+  },
+  "error": {
+    "title": "An error occurred",
+    "body": "The content could not be loaded. Please try again in a moment.",
+    "retry": "Retry"
+  }
+}
